@@ -1,0 +1,1 @@
+User ruby class test
